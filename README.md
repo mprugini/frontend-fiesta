@@ -102,7 +102,6 @@ Please read [contributing guidelines](CONTRIBUTING.md) before submitting new res
 ## 13. Component Libraries
 - **[Storybook](https://storybook.js.org/)**: Build UI components and pages in isolation.
 - **[Ant Design](https://ant.design/)**: A UI design language and React-based implementation.
-- **[Dopamine](https://dopamine.io/)**: A design system used in React projects.
 
 ## 14. Icons & Illustrations
 - **[Heroicons](https://heroicons.com/)**: Beautiful, hand-crafted SVG icons.
