@@ -124,6 +124,10 @@ Please read [contributing guidelines](CONTRIBUTING.md) before submitting new res
 - **[WebPageTest](https://www.webpagetest.org/)**: Free website speed testing tool.
 - **[BundlePhobia](https://bundlephobia.com/)**: Find the cost of adding a npm package to your bundle.
 
+## 18. Frontend Fiesta Roadmap
+
+We have curated a detailed roadmap to guide you through your frontend engineering journey. Check out the [Frontend Engineer Roadmap](./ROADMAP.md) to get started!
+
 ---
 
 ## Contributing
